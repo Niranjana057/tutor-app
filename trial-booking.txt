@@ -1,1 +1,2 @@
 Initial booking details
+Updated trial booking slot: 5 PM to 6 PM
